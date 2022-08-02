@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.itv.supermarket.SupermarketCheckoutTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-02T14:19:18" hostname="sophias-mbp.mynet" time="0.061">
+  <properties/>
+  <testcase name="testCheckout()" classname="com.itv.supermarket.SupermarketCheckoutTest" time="0.043"/>
+  <testcase name="testItems()" classname="com.itv.supermarket.SupermarketCheckoutTest" time="0.003"/>
+  <testcase name="testMissingQuantity()" classname="com.itv.supermarket.SupermarketCheckoutTest" time="0.01"/>
+  <testcase name="testMissingPrice()" classname="com.itv.supermarket.SupermarketCheckoutTest" time="0.001"/>
+  <system-out><![CDATA[Quantity must be greater than 0
+Price must be greater than 0.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
